@@ -1,0 +1,21 @@
+{
+    "name": "yii2-websocket-client/yii2-websocket-client",
+    "description": "yii2-websocket-client",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","websocket","websocket-client",""],
+    "license": "BSD-4-Clause",
+    "authors": [
+        {
+            "name": "jeonjihyun",
+            "email": "jeonjihyun@live.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "SPF\\": ""
+        }
+    }
+}
